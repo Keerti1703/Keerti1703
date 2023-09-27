@@ -14,20 +14,6 @@
     🌐 Check out my Holopin board for a visual journey!<br>
   </samp>
 </p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://holopin.io/@ambar">
-    <img src="https://img.shields.io/badge/holopin-%40ambar-ff69b4">
-  </a>
-  <a href="https://twitter.com/_ambar_kansal">
-    <img src="https://img.shields.io/badge/twitter-_%40ambar__kansal-blue">
-  </a>
-  <a href="https://www.linkedin.com/in/keerti-adhikari-b56b9a1b6/?trk=public-profile-join-page">
-    <img src="https://img.shields.io/badge/linkedin-ambar--kansal-blue">
-  </a>
-</p>
-
 <!-- Skills & Interests -->
 <p align="center">
   <samp>
