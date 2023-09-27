@@ -32,8 +32,7 @@
 <p align="center">
   <samp>
     <h2>Skills & Interests</h2>
-    💡 Java, Python, C<br>
-    🧠 Machine Learning enthusiast<br>
+    💡 Java, Html,CSS,JS,Docker<br>
     🎮 Gamer in free time<br>
     🎧 Music lover<br>
   </samp>
@@ -41,7 +40,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambarcode&show_icons=true&theme=radical" alt="Ambar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambarcode&show_icons=true&theme=radical" alt="Keerti's GitHub Stats">
 </p>
 
 <!-- Projects -->
@@ -58,7 +57,7 @@
   <samp>
     <h2>Contact Me</h2>
     📫 Feel free to reach out:<br>
-    <a href="mailto:ambarkansal2018@email.com">your@email.com</a><br>
-    <a href="https://twitter.com/_ambar_kansal">Twitter</a> | <a href="https://www.linkedin.com/in/ambar-kansal/">LinkedIn</a>
+    <a href="mailto:keertiadhikari17@gmail.com">your@email.com</a><br>
+    <a href="https://www.linkedin.com/in/keerti-adhikari-b56b9a1b6/">LinkedIn</a>
   </samp>
 </p>
